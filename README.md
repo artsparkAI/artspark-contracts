@@ -4,4 +4,4 @@ This repository includes the minting/burning functionality on a bonding curve fo
 
 **EthDenver**
 
-Frontend/backend code for Artspark submitted to judges privately.
+Frontend/backend code for Artspark was submitted to judges privately.
